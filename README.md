@@ -1,5 +1,3 @@
-# creditcardmeme
-
 # Hola
 ![](https://cdn.discordapp.com/attachments/575046959803400222/966423374874177556/can_i_have_credit_card_info_pls.gif)
 
