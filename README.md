@@ -6,8 +6,8 @@ Im gonna recreate this Gif i saw on Discord cuz like why not and the source will
 EDIT- so ill make it better later but i made it like web based cuz why not for now and it was the quickest thing to do but theres things i wanna do to it.
 
 # ----TO DO-----
-  make it a real aplication and not a hta file
+  - [x] make it a real aplication and not a hta file 
   
-  make it do the funni like do things to pc (not like virus wise no worries)
+  - [] make it do the funni like do things to pc (not like virus wise no worries)
   
-  put secrets and shit, like random shit
+  - [] put secrets and shit, like random shit
