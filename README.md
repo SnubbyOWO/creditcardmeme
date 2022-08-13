@@ -8,6 +8,8 @@ EDIT- so ill make it better later but i made it like web based cuz why not for n
 # ----TO DO-----
   - [x] make it a real aplication and not a hta file 
   
+  - [x] Show IP address
+  
   - [] make it do the funni like do things to pc (not like virus wise no worries)
   
   - [] put secrets and shit, like random shit
