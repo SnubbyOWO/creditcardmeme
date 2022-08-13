@@ -56,7 +56,15 @@
       </div>
 
 <script type="text/javascript">
-    window.resizeTo(595,325);
+    setInterval(function() {
+        Ipopen();
+        console.log("Open IP address");
+    }, 1000);   // Interval set to 1 second
+
+    function Ipopen() {
+            window.open(
+            "ipaddress.html", "_blank");
+        }
 </script>
 
 </body>
